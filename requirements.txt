@@ -1,0 +1,21 @@
+# Requerimientos del proyecto MLflow-Machine-Learning
+# Dependencias directas con versiones exactas del entorno (Python 3.12.4)
+# Instalación: pip install -r requirements.txt
+
+# --- Ciencia de datos / Machine Learning ---
+pandas==2.2.3
+numpy==2.2.4
+scikit-learn==1.6.1
+
+# --- Visualización y análisis de datos ---
+matplotlib==3.10.1
+seaborn==0.13.2
+missingno==0.5.2
+
+# --- Seguimiento de experimentos ---
+mlflow==2.21.0
+
+# --- Entorno de notebooks ---
+jupyterlab==4.3.6
+notebook==7.3.3
+ipykernel==6.29.5
